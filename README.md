@@ -1,2 +1,3 @@
 # git_test
-#fke
+My first Github repo! 
+Hello Sonthep
